@@ -1365,7 +1365,6 @@ def bot(op):
 
 
             elif msg.text in ["Bot Tag All", "Bot tag All"]:
-                if msg.from_ in staff:
                 group = cl.getGroup(msg.to)
                 msg_appended = ""
                 mem = [contact.mid for contact in group.members]                
