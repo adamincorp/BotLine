@@ -65,7 +65,7 @@ Prefix is Case sensitive but the commands is not.
 [Stalk 「ID」] - Upload lastest instagram picture from ID
 
 [*] Admin and Staff Commands [*]
-[Absen] - Check if bot is Online
+[Bot Absen] - Check if bot is Online
 [Auto Url On/Off] - Turn invitation link for group on/off
 [Auto Cancel On/Off] - Turn auto cancel invite on/off 
 [Gn 「group name」] - Change Group Name
