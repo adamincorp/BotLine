@@ -30,4 +30,38 @@ Cara Menjalankan Bot :
 - cd LIN3-TCR && python2 line-tcr.py<br>
 - Loginkan Dengan Akun Bot Kalian Lalu Masukkan MID Admin
 
+Keyword Bot
+-/help
+- Gh kick
+- Bot Kill Ban
+- Show Bot all
+- Cancel Inv
+- Link On/Off
+- Show Ginfo
+- Show Gid
+- Show Mid All
+- Bot Mid 1/2/3/4
+- Gh Contact
+- Gh Join On/Off
+- Gh Gurl
+- Bot Join
+- @Bye all
+- @Bye bot 1/2/3/4
+- Clear Group
+- Ban @
+- Unban @
+- Ban (Send Contact)
+- Unban (Send Contact)
+- Banlist
+- Bc
+- Speed
+- Add Staff @
+- Remove Staff @
+- Stafflist
+- Auto Cancel On/Off
+- Auto Url On/Off
+- Gh Random:
+- Bot Add @
+- Bot Like
+
 Butuh Bantuan? Silahkan Masuk Ke Group, add : alvian128 ( khusus yg udah tau bot aja )
