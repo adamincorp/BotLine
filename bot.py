@@ -547,6 +547,11 @@ def bot(op):
                         cl.sendText(msg.to,"Command denied.")
                         cl.sendText(msg.to,"Admin permission required.")
                         print "[Error]Command denied - Admin permission required"
+#-----------------------[Show Keyword]------------------------
+            elif msg.text in ["Keyword","Keyword"]:
+                if msg.from_ in staff:
+                cl.sendText(msg.to,"/help\nGh kick\nBot Kill Ban\nShow Bot all\nCancel Inv\nLink On/Off\nShow Ginfo\nShow Gid\nShow Mid All\nBot Mid 1/2/3/4\nGh Contact\nGh Join On/Off\nGh Gurl\nBot Join\n@Bye all\n@Bye bot 1/2/3/4\nClear Group\nBan @\nUnban @\nBan (Send Contact)\nUnban (Send Contact)\nBanlist\nBc\nSpeed\nAdd Staff @\nRemove Staff @\nStafflist\nAuto Cancel On/Off\nAuto Url On/Off\nGh Random:\nBot Add @\nBot Like")
+                print "[Command]Keyword"
 #-----------------------[Send Profile Section]------------------------                    
             elif msg.text in ["Show bot all","Show bot all"]:
                 msg.contentType = 13
