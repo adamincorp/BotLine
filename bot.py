@@ -606,7 +606,7 @@ def bot(op):
                     else:
                         cl.sendText(msg.to,"Not for use less than group")
 #-----------------------[Group link Section]------------------------                        
-            elif msg.text in ["Glink off","Link off","glink off","link off","Link Off]:
+            elif msg.text in ["Glink off","Link off","glink off","link off","Link Off"]:
                 if msg.toType == 2:
                     if msg.from_ in staff:
                         X = cl.getGroup(msg.to)
